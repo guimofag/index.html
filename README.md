@@ -2,8 +2,8 @@
 Reunião 4
 <h1> Escalação do Flamengo: Gomes, Filipe Luís e Léo Pereira voltam</h1>
 
-	<p><h2> Rubro-negros encaram o Tolima, às 21h30 de quarta, no Maracanã </h2></p>
-	<p>O <b>Flamengo</b> decide uma vaga nas quartas de final da Libertadores nesta quarta-feira, às 21h30 (de Brasília), no Maracanã, contra o Tolima. Para o duelo derradeiro, Dorival Júnior promoverá o retorno de vários atletas que foram poupados contra o Santos.</p>
+<p><h2> Rubro-negros encaram o Tolima, às 21h30 de quarta, no Maracanã </h2></p>
+<p>O <b>Flamengo</b> decide uma vaga nas quartas de final da Libertadores nesta quarta-feira, às 21h30 (de Brasília), no Maracanã, contra o Tolima. Para o duelo derradeiro, Dorival Júnior promoverá o retorno de vários atletas que foram poupados contra o Santos.</p>
 
 <p><i><b>Flamengo x Tolima:</b> 45 mil ingressos vendidos para o duelo desta quarta</p></i>
 
